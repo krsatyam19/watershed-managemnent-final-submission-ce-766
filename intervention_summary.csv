@@ -1,0 +1,5 @@
+intervention,treated_area_km2,pct_of_watershed,mean_rainfall_mm,efficiency,gain_Mm3_yr,gain_low_Mm3_yr,gain_high_Mm3_yr,unit_gain_Mm3_per_km2
+Check dam,13.8434,4.2438,569.0699,0.06,0.4727,0.2363,0.709,0.0341
+Recharge structure,33.2241,10.1852,584.3469,0.08,1.5532,0.7766,2.3297,0.0467
+Farm pond,16.1086,4.9383,581.2447,0.04,0.3745,0.1873,0.5618,0.0232
+Contour bunding,75.2576,23.071,589.3142,0.05,2.2175,1.1088,3.3263,0.0295

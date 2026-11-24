@@ -1,0 +1,47 @@
+{
+  "seed": 42,
+  "cell_km": 0.502,
+  "mean_rain_mm": 575.6444444444444,
+  "mean_dh_m": 3.614907407407407,
+  "mean_recharge_mm": 72.29814814814814,
+  "mean_recharge_Mm3": 23.583655925925925,
+  "mean_recharge_pct_rain": 12.559514618077003,
+  "sy_range_Mm3": [
+    17.687741944444443,
+    35.37548388888889
+  ],
+  "peak": {
+    "year": 2005,
+    "Mm3": 29.890793333333335,
+    "rain": 773.5
+  },
+  "minimum": {
+    "year": 2006,
+    "Mm3": 16.89716,
+    "rain": 415.6000000000001,
+    "pct": 12.463907603464868
+  },
+  "rain_recharge_corr": 0.9785655745629247,
+  "class_pct": {
+    "Low": 11.342592592592593,
+    "Moderate": 24.228395061728396,
+    "High": 25.848765432098762,
+    "Very high": 38.58024691358025
+  },
+  "class_km2": {
+    "Low": 36.99953703703704,
+    "Moderate": 79.03302469135802,
+    "High": 84.31867283950616,
+    "Very high": 125.84876543209876
+  },
+  "untreated_pct": 57.56172839506173,
+  "total_gain_Mm3": 4.617861158038192,
+  "total_gain_range": [
+    2.308930579019096,
+    6.926791737057288
+  ],
+  "gain_pct_of_baseline": 19.580768870367113,
+  "weight_sensitivity_mean_pct_cells_changed": 3.4070216049382713,
+  "weight_sensitivity_max_pct_cells_changed": 5.478395061728395,
+  "stream_cells": 132
+}
